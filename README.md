@@ -45,5 +45,5 @@ This project was built and executed in Google Colab.
 │   ├── checkpoint_1.ipynb      # Initial EDA, parsing logic, and structural analysis
 │   └── checkpoint_2.ipynb      # Formal project proposal and algorithmic methodology
 ├── requirements.txt            # Exported Colab environment dependencies
-├── .gitignore                  # Git ignore file
+├── Python.gitignore                  # Git ignore file
 └── README.md                   # Project documentation
