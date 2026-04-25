@@ -1,8 +1,8 @@
 # Fairness-Aware Citation Ranking: Mitigating Structural Age Bias in Academic Networks
 
-**👉 Start here: `main_notebook.ipynb`**
+**Start here: `main_notebook.ipynb`**
 
-🎥 **[Project Video Walkthrough]([INSERT YOUTUBE/VIDEO LINK HERE])**
+**[2 Minute Project Video](https://www.youtube.com/watch?v=aTgQlPBKzqw)**
 
 ## Project Overview
 This project exposes and mitigates structural "age bias" in large-scale academic citation networks. Billions of dollars are spent on R&D, but the search engines used to discover breakthroughs often rely on classic graph algorithms that are structurally rigged against new ideas. Using the **ACM-Citation-network-V12** dataset (6.6 million nodes, 13.1 million edges), this analysis proves that standard global centrality metrics mistake "age" for "importance." To fix this, we implement a Demographic-Aware PageRank solution to bridge disconnected research silos and restore visibility to modern innovation.
@@ -40,7 +40,7 @@ This project was built and executed in Google Colab.
 ## Repository Structure
 ```text
 .
-├── main_notebook.ipynb         # 👉 The final curated notebook and primary deliverable
+├── main_notebook.ipynb         # The final curated notebook and primary deliverable
 ├── checkpoints/                # Folder containing the progression of work over the semester
 │   ├── checkpoint_1.ipynb      # Initial EDA, parsing logic, and structural analysis
 │   └── checkpoint_2.ipynb      # Formal project proposal and algorithmic methodology
