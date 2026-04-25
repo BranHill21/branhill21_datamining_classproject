@@ -30,12 +30,12 @@ This project was built and executed in Google Colab.
 3. Open `main_notebook.ipynb` and run the cells sequentially. The data downloading and extraction logic is built directly into the first initialization cell.
 
 ### Key Dependencies
-* Python [INSERT PYTHON VERSION HERE]
+* Python 3.12.13
 * `python-igraph` (1.0.0)
-* `pandas`
-* `numpy`
-* `scipy`
-* `matplotlib`
+* `pandas` (2.2.2)
+* `numpy` (2.0.2)
+* `scipy` (1.16.3)
+* `matplotlib` (3.10.0)
 
 ## Repository Structure
 ```text
